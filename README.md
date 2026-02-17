@@ -1,5 +1,5 @@
 # 💫 About Me:
-📍		Actualmente soy Practicante Automatizador de Procesos en Tigo Colombia.<br>🛠️	Soy un Desarrollador Jr Full Stack con experiencia en la creación y la implementación de soluciones.<br>🌱	Siempre en modo aprendizaje, actualmente enfocado en dominar Node.js.<br>✨	Disfruto mucho codear, crear y trabajar en equipo para lograr grandes proyectos.<br>🍕🌮	Dato curioso: ¡Soy un gran fan de la comida italiana y la mexicana!
+📍		Actualmente soy Analista de pruebas en GFT Technologies.<br>🛠️	Soy un Desarrollador Jr Full Stack con experiencia en la creación y la implementación de soluciones.<br>🌱	Siempre en modo aprendizaje, actualmente enfocado en dominar Node.js.<br>✨	Disfruto mucho codear, crear y trabajar en equipo para lograr grandes proyectos.<br>🍕🌮	Dato curioso: ¡Soy un gran fan de la comida italiana y la mexicana!
 
 
 ## 🌐 Socials:
